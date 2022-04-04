@@ -8,15 +8,14 @@ Sul 100 até 199
 
 def codCidadeRegiao(codCidade):
    if codCidade >= 201 and codCidade <= 299:
-      return 'Centro-oeste'
+      return 'centroOeste'
    elif codCidade >= 300 and codCidade <= 399:
-      return 'Nordeste'
+      return 'nordeste'
    elif codCidade >= 400 and codCidade <= 499:
-      return 'Norte'
+      return 'norte'
    elif codCidade >= 1 and codCidade <= 99: 
-      #!verificar o uso do 0 se influencia no calculo
-      return 'Sudeste'
+      return 'sudeste'
    elif codCidade >= 100 and codCidade <= 199:
-      return 'Sul'
-   else:
-      return 'Código inválido'
+      return 'sul'
+
+#!mudar ordem

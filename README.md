@@ -1,2 +1,0 @@
-# TemistoclesZwang_desafio_engenharia
-Desafio Loggi
