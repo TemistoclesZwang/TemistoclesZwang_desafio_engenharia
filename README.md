@@ -1,4 +1,4 @@
-Nome: Temitocles Carvalho Zwang
+Nome: Temistocles Carvalho Zwang
 
 Universidade: Instituto Federal do Piaui
 
