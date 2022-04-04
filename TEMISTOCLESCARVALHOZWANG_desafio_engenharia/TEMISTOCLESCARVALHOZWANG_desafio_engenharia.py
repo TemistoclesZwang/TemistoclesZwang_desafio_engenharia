@@ -1,4 +1,4 @@
-# Nome: Temitocles Carvalho Zwang
+# Nome: Temistocles Carvalho Zwang
 # Universidade: Instituto Federal do Piaui
 # Curso: Análise e Desenvolvimento de Sistemas
 # 5° Semestre
